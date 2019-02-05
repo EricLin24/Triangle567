@@ -1,1 +1,1 @@
-[![build status of master](https://travis-ci.org/eric_lin/Triangle567.svg?branch=master)](https://travis-ci.org/eric_lin/Triangle567)
+[![build status of master](https://travis-ci.org/EricLin24/Triangle567.svg?branch=master)](https://travis-ci.org/EricLin24/Triangle567)
