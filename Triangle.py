@@ -53,9 +53,8 @@ def classifyTriangle(a,b,c):
         if (a != b) and (b != c) and (a != c):
             return 'Right and Scalene'
         elif a == b or a == c or b == c:
-            return 'Right and Isoceles'
-        else:
-            return 'Right'
+            return 'Right and Isosceles'
+
     elif (a != b) and  (b != c) and (a != c):
         return 'Scalene'
     else:
